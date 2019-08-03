@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="float" for="edge" id="d1" />
+  <key attr.name="area" attr.type="float" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="CTO Office">
+      <data key="d0">9.52</data>
+    </node>
+    <node id="Open">
+      <data key="d0">345.81</data>
+    </node>
+    <node id="Legal Eagle Office">
+      <data key="d0">9.51</data>
+    </node>
+    <node id="PA Office">
+      <data key="d0">9.51</data>
+    </node>
+    <node id="CEO Office">
+      <data key="d0">21.62</data>
+    </node>
+    <node id="CFO Office">
+      <data key="d0">9.25</data>
+    </node>
+    <node id="Sales Arena">
+      <data key="d0">39.79</data>
+    </node>
+    <node id="Swedese">
+      <data key="d0">26.82</data>
+    </node>
+    <node id="Offecct">
+      <data key="d0">25.06</data>
+    </node>
+    <node id="WC1">
+      <data key="d0">2.21</data>
+    </node>
+    <node id="WC3">
+      <data key="d0">2.7</data>
+    </node>
+    <node id="VR Room">
+      <data key="d0">25.46</data>
+    </node>
+    <node id="HR Office">
+      <data key="d0">9.3</data>
+    </node>
+    <node id="WC2">
+      <data key="d0">2.04</data>
+    </node>
+    <node id="WC4">
+      <data key="d0">5.24</data>
+    </node>
+    <node id="Copy">
+      <data key="d0">12.42</data>
+    </node>
+    <node id="EFG">
+      <data key="d0">41.9</data>
+    </node>
+    <node id="Storage">
+      <data key="d0">0.82</data>
+    </node>
+    <node id="Marketing">
+      <data key="d0">43.32</data>
+    </node>
+    <node id="Recovery">
+      <data key="d0">3.01</data>
+    </node>
+    <node id="Entrance1">
+      <data key="d0">16.98</data>
+    </node>
+    <node id="Entrance2">
+      <data key="d0">17.59</data>
+    </node>
+    <node id="Revision">
+      <data key="d0">1.16</data>
+    </node>
+    <node id="Stairs1">
+      <data key="d0">14.32</data>
+    </node>
+    <node id="Stairs2">
+      <data key="d0">15.27</data>
+    </node>
+    <edge source="CTO Office" target="Open">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="Legal Eagle Office">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="PA Office">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="CEO Office">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="CFO Office">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="Sales Arena">
+      <data key="d1">0.7516258475162585</data>
+    </edge>
+    <edge source="Open" target="Swedese">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="Offecct">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="WC1">
+      <data key="d1">0.3549190535491905</data>
+    </edge>
+    <edge source="Open" target="WC3">
+      <data key="d1">0.3549190535491905</data>
+    </edge>
+    <edge source="Open" target="VR Room">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="HR Office">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="WC2">
+      <data key="d1">0.3549190535491905</data>
+    </edge>
+    <edge source="Open" target="WC4">
+      <data key="d1">0.3549190535491905</data>
+    </edge>
+    <edge source="Open" target="Copy">
+      <data key="d1">0.48913795489137957</data>
+    </edge>
+    <edge source="Open" target="EFG">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="Storage">
+      <data key="d1">0.3549190535491905</data>
+    </edge>
+    <edge source="Open" target="Marketing">
+      <data key="d1">0.49202758175360917</data>
+    </edge>
+    <edge source="Open" target="Recovery">
+      <data key="d1">0.48913795489137957</data>
+    </edge>
+    <edge source="Open" target="Entrance1">
+      <data key="d1">0.7722632719892993</data>
+    </edge>
+    <edge source="Open" target="Entrance2">
+      <data key="d1">0.7722632719892993</data>
+    </edge>
+    <edge source="Open" target="Revision">
+      <data key="d1">0.7312854573128545</data>
+    </edge>
+    <edge source="Entrance1" target="Stairs1">
+      <data key="d1">0.48913795489137957</data>
+    </edge>
+    <edge source="Entrance2" target="Stairs2">
+      <data key="d1">0.48913795489137957</data>
+    </edge>
+    <edge source="Entrance2" target="Revision">
+      <data key="d1">1.0</data>
+    </edge>
+  </graph>
+</graphml>
