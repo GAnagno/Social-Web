@@ -12,7 +12,7 @@
       },
       "properties": {
         "ec": 6.0304689797736505e-09,
-        "name": "Genève-Sécheron",
+        "name": "GenÃ¨ve-SÃ©cheron",
         "id": "GESE"
       }
     },
@@ -27,7 +27,7 @@
       },
       "properties": {
         "ec": 2.207699691381747e-09,
-        "name": "Chambésy",
+        "name": "ChambÃ©sy",
         "id": "CHY"
       }
     },
@@ -222,7 +222,7 @@
       },
       "properties": {
         "ec": 3.950614175844198e-09,
-        "name": "Jonction (Genève)",
+        "name": "Jonction (GenÃ¨ve)",
         "id": "JON"
       }
     },
@@ -252,7 +252,7 @@
       },
       "properties": {
         "ec": 1.9166770422967188e-09,
-        "name": "Lancy-Bâtie (bif)",
+        "name": "Lancy-BÃ¢tie (bif)",
         "id": "LABA"
       }
     },
@@ -537,7 +537,7 @@
       },
       "properties": {
         "ec": 2.6720081010993515e-08,
-        "name": "Eclépens sud",
+        "name": "EclÃ©pens sud",
         "id": "ECLS"
       }
     },
@@ -552,7 +552,7 @@
       },
       "properties": {
         "ec": 8.926384575699834e-09,
-        "name": "Eclépens",
+        "name": "EclÃ©pens",
         "id": "ECL"
       }
     },
@@ -627,7 +627,7 @@
       },
       "properties": {
         "ec": 1.203617622749533e-10,
-        "name": "Tüscherz",
+        "name": "TÃ¼scherz",
         "id": "TUE"
       }
     },
@@ -687,7 +687,7 @@
       },
       "properties": {
         "ec": 3.9163934282048116e-11,
-        "name": "Biel/Bienne Bözingenfeld/Champ",
+        "name": "Biel/Bienne BÃ¶zingenfeld/Champ",
         "id": "BIBD"
       }
     },
@@ -747,7 +747,7 @@
       },
       "properties": {
         "ec": 2.0993636180220805e-05,
-        "name": "Härkingen Post",
+        "name": "HÃ¤rkingen Post",
         "id": "HRK"
       }
     },
@@ -762,7 +762,7 @@
       },
       "properties": {
         "ec": 7.050235484012897e-05,
-        "name": "Hägendorf",
+        "name": "HÃ¤gendorf",
         "id": "HAE"
       }
     },
@@ -822,7 +822,7 @@
       },
       "properties": {
         "ec": 1.0101680299415807e-09,
-        "name": "Bretonnières",
+        "name": "BretonniÃ¨res",
         "id": "BRT"
       }
     },
@@ -837,7 +837,7 @@
       },
       "properties": {
         "ec": 2.986683657726209e-09,
-        "name": "Croy-Romainmôtier",
+        "name": "Croy-RomainmÃ´tier",
         "id": "CR"
       }
     },
@@ -927,7 +927,7 @@
       },
       "properties": {
         "ec": 7.412669803166641e-19,
-        "name": "Les Verrières",
+        "name": "Les VerriÃ¨res",
         "id": "VER"
       }
     },
@@ -987,7 +987,7 @@
       },
       "properties": {
         "ec": 9.13123941675041e-18,
-        "name": "Le Crêt-du-Locle",
+        "name": "Le CrÃªt-du-Locle",
         "id": "CRET"
       }
     },
@@ -1137,7 +1137,7 @@
       },
       "properties": {
         "ec": 1.464887113047845e-14,
-        "name": "Malleray-Bévilard",
+        "name": "Malleray-BÃ©vilard",
         "id": "MB"
       }
     },
@@ -1167,7 +1167,7 @@
       },
       "properties": {
         "ec": 1.2866428600648679e-13,
-        "name": "Bärschwil",
+        "name": "BÃ¤rschwil",
         "id": "BAER"
       }
     },
@@ -1212,7 +1212,7 @@
       },
       "properties": {
         "ec": 8.818854763441535e-15,
-        "name": "Delémont",
+        "name": "DelÃ©mont",
         "id": "DMT"
       }
     },
@@ -1257,7 +1257,7 @@
       },
       "properties": {
         "ec": 1.938509179258784e-14,
-        "name": "Soyhières",
+        "name": "SoyhiÃ¨res",
         "id": "SOY"
       }
     },
@@ -1302,7 +1302,7 @@
       },
       "properties": {
         "ec": 1.6555585318627569e-18,
-        "name": "Courtemaîche",
+        "name": "CourtemaÃ®che",
         "id": "CTM"
       }
     },
@@ -1482,7 +1482,7 @@
       },
       "properties": {
         "ec": 1.8228174368364524e-12,
-        "name": "Châtillens",
+        "name": "ChÃ¢tillens",
         "id": "CHAT"
       }
     },
@@ -1512,7 +1512,7 @@
       },
       "properties": {
         "ec": 1.6333717239951603e-11,
-        "name": "Palézieux",
+        "name": "PalÃ©zieux",
         "id": "PAL"
       }
     },
@@ -1527,7 +1527,7 @@
       },
       "properties": {
         "ec": 5.456505902631376e-12,
-        "name": "Palézieux-Village",
+        "name": "PalÃ©zieux-Village",
         "id": "PALV"
       }
     },
@@ -1602,7 +1602,7 @@
       },
       "properties": {
         "ec": 1.9168431710800167e-09,
-        "name": "Brügg BE",
+        "name": "BrÃ¼gg BE",
         "id": "BGG"
       }
     },
@@ -1632,7 +1632,7 @@
       },
       "properties": {
         "ec": 1.0035866165616258e-09,
-        "name": "Bossière",
+        "name": "BossiÃ¨re",
         "id": "BOSS"
       }
     },
@@ -1722,7 +1722,7 @@
       },
       "properties": {
         "ec": 2.0715593187088392e-15,
-        "name": "Villars-sur-Glâne",
+        "name": "Villars-sur-GlÃ¢ne",
         "id": "VG"
       }
     },
@@ -1752,7 +1752,7 @@
       },
       "properties": {
         "ec": 1.7550534947157247e-15,
-        "name": "Rosé",
+        "name": "RosÃ©",
         "id": "ROS"
       }
     },
@@ -2007,7 +2007,7 @@
       },
       "properties": {
         "ec": 1.4861117283511636e-08,
-        "name": "Münsingen",
+        "name": "MÃ¼nsingen",
         "id": "MS"
       }
     },
@@ -2067,7 +2067,7 @@
       },
       "properties": {
         "ec": 6.425055131951585e-16,
-        "name": "Schüpfheim",
+        "name": "SchÃ¼pfheim",
         "id": "SCHH"
       }
     },
@@ -2082,7 +2082,7 @@
       },
       "properties": {
         "ec": 1.6760425013488084e-07,
-        "name": "Gümligen Süd (Abzw)",
+        "name": "GÃ¼mligen SÃ¼d (Abzw)",
         "id": "GUES"
       }
     },
@@ -2127,7 +2127,7 @@
       },
       "properties": {
         "ec": 6.988121935003229e-14,
-        "name": "Fluhmühle (Abzw)",
+        "name": "FluhmÃ¼hle (Abzw)",
         "id": "FMUE"
       }
     },
@@ -2187,7 +2187,7 @@
       },
       "properties": {
         "ec": 3.084690852564961e-12,
-        "name": "Schüpbach (Signau)",
+        "name": "SchÃ¼pbach (Signau)",
         "id": "SCUB"
       }
     },
@@ -2277,7 +2277,7 @@
       },
       "properties": {
         "ec": 3.923632119604686e-10,
-        "name": "Zäziwil",
+        "name": "ZÃ¤ziwil",
         "id": "ZAE"
       }
     },
@@ -2322,7 +2322,7 @@
       },
       "properties": {
         "ec": 0.00023156748988912432,
-        "name": "Hauenstein Süd (Spw)",
+        "name": "Hauenstein SÃ¼d (Spw)",
         "id": "HBTS"
       }
     },
@@ -2442,7 +2442,7 @@
       },
       "properties": {
         "ec": 2.0586592614242942e-05,
-        "name": "Rümlingen",
+        "name": "RÃ¼mlingen",
         "id": "RLG"
       }
     },
@@ -2457,7 +2457,7 @@
       },
       "properties": {
         "ec": 8.529078084439687e-12,
-        "name": "Möhlin",
+        "name": "MÃ¶hlin",
         "id": "MOE"
       }
     },
@@ -2577,7 +2577,7 @@
       },
       "properties": {
         "ec": 1.3769032584137405e-12,
-        "name": "Stein-Säckingen",
+        "name": "Stein-SÃ¤ckingen",
         "id": "STS"
       }
     },
@@ -2637,7 +2637,7 @@
       },
       "properties": {
         "ec": 3.192731084273059e-07,
-        "name": "Brugg AG Süd (Abzw)",
+        "name": "Brugg AG SÃ¼d (Abzw)",
         "id": "BGS"
       }
     },
@@ -2667,7 +2667,7 @@
       },
       "properties": {
         "ec": 3.9718277320174327e-05,
-        "name": "Däniken RB",
+        "name": "DÃ¤niken RB",
         "id": "DKRB"
       }
     },
@@ -2682,7 +2682,7 @@
       },
       "properties": {
         "ec": 4.2431930345176366e-05,
-        "name": "Däniken",
+        "name": "DÃ¤niken",
         "id": "DK"
       }
     },
@@ -2757,7 +2757,7 @@
       },
       "properties": {
         "ec": 9.72578044609313e-06,
-        "name": "Dättwil",
+        "name": "DÃ¤ttwil",
         "id": "DAET"
       }
     },
@@ -2772,7 +2772,7 @@
       },
       "properties": {
         "ec": 6.255429772354281e-13,
-        "name": "Emmenbrücke Gersag",
+        "name": "EmmenbrÃ¼cke Gersag",
         "id": "GSAG"
       }
     },
@@ -2787,7 +2787,7 @@
       },
       "properties": {
         "ec": 1.902551996195279e-13,
-        "name": "Emmenbrücke",
+        "name": "EmmenbrÃ¼cke",
         "id": "EBR"
       }
     },
@@ -2907,7 +2907,7 @@
       },
       "properties": {
         "ec": 2.714353279401726e-09,
-        "name": "Sursee Süd (Spw)",
+        "name": "Sursee SÃ¼d (Spw)",
         "id": "SSS"
       }
     },
@@ -3102,7 +3102,7 @@
       },
       "properties": {
         "ec": 3.337405196363847e-14,
-        "name": "Hochdorf Schönau",
+        "name": "Hochdorf SchÃ¶nau",
         "id": "HOSA"
       }
     },
@@ -3162,7 +3162,7 @@
       },
       "properties": {
         "ec": 6.247148279633176e-13,
-        "name": "Waldibrücke",
+        "name": "WaldibrÃ¼cke",
         "id": "WAB"
       }
     },
@@ -3177,7 +3177,7 @@
       },
       "properties": {
         "ec": 2.0966723704243886e-12,
-        "name": "Hübeli LU",
+        "name": "HÃ¼beli LU",
         "id": "HUEB"
       }
     },
@@ -3207,7 +3207,7 @@
       },
       "properties": {
         "ec": 7.58703329928776e-12,
-        "name": "Mühlau",
+        "name": "MÃ¼hlau",
         "id": "MUEH"
       }
     },
@@ -3222,7 +3222,7 @@
       },
       "properties": {
         "ec": 3.508189419607609e-10,
-        "name": "Boswil-Bünzen",
+        "name": "Boswil-BÃ¼nzen",
         "id": "BOS"
       }
     },
@@ -3432,7 +3432,7 @@
       },
       "properties": {
         "ec": 1.0174221228091059e-07,
-        "name": "Lausanne-Sébeillon",
+        "name": "Lausanne-SÃ©beillon",
         "id": "LSSB"
       }
     },
@@ -3897,7 +3897,7 @@
       },
       "properties": {
         "ec": 0.001851430490349806,
-        "name": "RBL Kopf Zürich",
+        "name": "RBL Kopf ZÃ¼rich",
         "id": "RBLZ"
       }
     },
@@ -3927,7 +3927,7 @@
       },
       "properties": {
         "ec": 0.10623323330791175,
-        "name": "Zürich Aussersihl (Abzw)",
+        "name": "ZÃ¼rich Aussersihl (Abzw)",
         "id": "ZAU"
       }
     },
@@ -3942,7 +3942,7 @@
       },
       "properties": {
         "ec": 0.2309547966486185,
-        "name": "Zürich Langstrasse",
+        "name": "ZÃ¼rich Langstrasse",
         "id": "ZLST"
       }
     },
@@ -3957,7 +3957,7 @@
       },
       "properties": {
         "ec": 0.12595952931913507,
-        "name": "Zürich Vorbahnhof Süd",
+        "name": "ZÃ¼rich Vorbahnhof SÃ¼d",
         "id": "ZVBS"
       }
     },
@@ -3972,7 +3972,7 @@
       },
       "properties": {
         "ec": 0.09473452056945621,
-        "name": "Zürich Birchsteg (Abzw)",
+        "name": "ZÃ¼rich Birchsteg (Abzw)",
         "id": "ZBST"
       }
     },
@@ -3987,7 +3987,7 @@
       },
       "properties": {
         "ec": 0.24286364052930218,
-        "name": "Hard Käferberg (Abzw)",
+        "name": "Hard KÃ¤ferberg (Abzw)",
         "id": "HRD"
       }
     },
@@ -4002,7 +4002,7 @@
       },
       "properties": {
         "ec": 0.33525355391305167,
-        "name": "Zürich Hardbrücke",
+        "name": "ZÃ¼rich HardbrÃ¼cke",
         "id": "ZHDB"
       }
     },
@@ -4017,7 +4017,7 @@
       },
       "properties": {
         "ec": 0.3174265194412162,
-        "name": "Zürich Herdern Abstellgruppe",
+        "name": "ZÃ¼rich Herdern Abstellgruppe",
         "id": "ZHER"
       }
     },
@@ -4032,7 +4032,7 @@
       },
       "properties": {
         "ec": 0.07603504173888373,
-        "name": "Zürich HB",
+        "name": "ZÃ¼rich HB",
         "id": "ZUE"
       }
     },
@@ -4047,7 +4047,7 @@
       },
       "properties": {
         "ec": 0.022678763370153888,
-        "name": "Zürich Stadelhofen",
+        "name": "ZÃ¼rich Stadelhofen",
         "id": "ZSTH"
       }
     },
@@ -4062,7 +4062,7 @@
       },
       "properties": {
         "ec": 0.06982914189809221,
-        "name": "Zürich Viadukt (Abzw)",
+        "name": "ZÃ¼rich Viadukt (Abzw)",
         "id": "ZVIA"
       }
     },
@@ -4077,7 +4077,7 @@
       },
       "properties": {
         "ec": 0.04208645875920495,
-        "name": "Zürich Wipkingen",
+        "name": "ZÃ¼rich Wipkingen",
         "id": "ZWIP"
       }
     },
@@ -4167,7 +4167,7 @@
       },
       "properties": {
         "ec": 7.343124631036738e-09,
-        "name": "Genève faisceau B",
+        "name": "GenÃ¨ve faisceau B",
         "id": "GEFB"
       }
     },
@@ -4182,7 +4182,7 @@
       },
       "properties": {
         "ec": 1.0606844995543436e-08,
-        "name": "Genève Poste 1",
+        "name": "GenÃ¨ve Poste 1",
         "id": "GEPO"
       }
     },
@@ -4197,7 +4197,7 @@
       },
       "properties": {
         "ec": 7.343124631036738e-09,
-        "name": "Genève faisceau C",
+        "name": "GenÃ¨ve faisceau C",
         "id": "GEFC"
       }
     },
@@ -4287,7 +4287,7 @@
       },
       "properties": {
         "ec": 2.3065613818731446e-14,
-        "name": "Wil Güterbahnhof",
+        "name": "Wil GÃ¼terbahnhof",
         "id": "WIGB"
       }
     },
@@ -4347,7 +4347,7 @@
       },
       "properties": {
         "ec": 1.608940447398929e-09,
-        "name": "Châtelaine (bif)",
+        "name": "ChÃ¢telaine (bif)",
         "id": "CHNE"
       }
     },
@@ -4392,7 +4392,7 @@
       },
       "properties": {
         "ec": 4.4953234685970377e-13,
-        "name": "La Plaine-Frontière",
+        "name": "La Plaine-FrontiÃ¨re",
         "id": "LPFR"
       }
     },
@@ -4737,7 +4737,7 @@
       },
       "properties": {
         "ec": 3.348440319332664e-08,
-        "name": "Winterthur Grüze",
+        "name": "Winterthur GrÃ¼ze",
         "id": "WGR"
       }
     },
@@ -4782,7 +4782,7 @@
       },
       "properties": {
         "ec": 7.646067342825357e-07,
-        "name": "Winterthur Wülflingen",
+        "name": "Winterthur WÃ¼lflingen",
         "id": "WWUE"
       }
     },
@@ -4797,7 +4797,7 @@
       },
       "properties": {
         "ec": 5.130430914479468e-07,
-        "name": "Winterthur Töss",
+        "name": "Winterthur TÃ¶ss",
         "id": "WTOE"
       }
     },
@@ -5337,7 +5337,7 @@
       },
       "properties": {
         "ec": 8.230824142258565e-13,
-        "name": "Schänis",
+        "name": "SchÃ¤nis",
         "id": "SCAE"
       }
     },
@@ -5352,7 +5352,7 @@
       },
       "properties": {
         "ec": 1.131008121312275e-12,
-        "name": "Ziegelbrücke",
+        "name": "ZiegelbrÃ¼cke",
         "id": "ZB"
       }
     },
@@ -5577,7 +5577,7 @@
       },
       "properties": {
         "ec": 2.3344946558625305e-16,
-        "name": "Tägerwilen-Gottlieben",
+        "name": "TÃ¤gerwilen-Gottlieben",
         "id": "TAEG"
       }
     },
@@ -5832,7 +5832,7 @@
       },
       "properties": {
         "ec": 2.2449880746941593e-16,
-        "name": "Tägerwilen Dorf",
+        "name": "TÃ¤gerwilen Dorf",
         "id": "TAEM"
       }
     },
@@ -5862,7 +5862,7 @@
       },
       "properties": {
         "ec": 6.817746409503967e-17,
-        "name": "Tägerschen",
+        "name": "TÃ¤gerschen",
         "id": "TAEN"
       }
     },
@@ -5892,7 +5892,7 @@
       },
       "properties": {
         "ec": 4.303589778902693e-16,
-        "name": "Tägermoos (Abzw)",
+        "name": "TÃ¤germoos (Abzw)",
         "id": "TAMO"
       }
     },
@@ -5967,7 +5967,7 @@
       },
       "properties": {
         "ec": 1.0560801811670377e-05,
-        "name": "Tössmühle",
+        "name": "TÃ¶ssmÃ¼hle",
         "id": "TOEM"
       }
     },
@@ -5982,7 +5982,7 @@
       },
       "properties": {
         "ec": 3.7158687437083784e-06,
-        "name": "Tössmühle Ost",
+        "name": "TÃ¶ssmÃ¼hle Ost",
         "id": "TOST"
       }
     },
@@ -6087,7 +6087,7 @@
       },
       "properties": {
         "ec": 5.865755786560411e-09,
-        "name": "Genève Voie-Creuse",
+        "name": "GenÃ¨ve Voie-Creuse",
         "id": "GEVO"
       }
     },
@@ -6102,7 +6102,7 @@
       },
       "properties": {
         "ec": 1.2139607034709973e-08,
-        "name": "Genève",
+        "name": "GenÃ¨ve",
         "id": "GE"
       }
     },
@@ -6252,7 +6252,7 @@
       },
       "properties": {
         "ec": 4.8618556214131844e-14,
-        "name": "Céligny",
+        "name": "CÃ©ligny",
         "id": "CEL"
       }
     },
@@ -6267,7 +6267,7 @@
       },
       "properties": {
         "ec": 3.603917220953101e-07,
-        "name": "Pfäffikon ZH",
+        "name": "PfÃ¤ffikon ZH",
         "id": "PFZ"
       }
     },
@@ -6297,7 +6297,7 @@
       },
       "properties": {
         "ec": 3.239957484882324e-05,
-        "name": "Bülach",
+        "name": "BÃ¼lach",
         "id": "BUE"
       }
     },
@@ -6447,7 +6447,7 @@
       },
       "properties": {
         "ec": 2.5342151881630736e-09,
-        "name": "Räterschen",
+        "name": "RÃ¤terschen",
         "id": "RAET"
       }
     },
@@ -6492,7 +6492,7 @@
       },
       "properties": {
         "ec": 6.667528827788515e-20,
-        "name": "Mörschwil",
+        "name": "MÃ¶rschwil",
         "id": "MOER"
       }
     },
@@ -6552,7 +6552,7 @@
       },
       "properties": {
         "ec": 9.718999994234667e-15,
-        "name": "Bürglen",
+        "name": "BÃ¼rglen",
         "id": "BGL"
       }
     },
@@ -6612,7 +6612,7 @@
       },
       "properties": {
         "ec": 2.7790037759511832e-09,
-        "name": "Oberwinterthur SA Pünten",
+        "name": "Oberwinterthur SA PÃ¼nten",
         "id": "OWTP"
       }
     },
@@ -6627,7 +6627,7 @@
       },
       "properties": {
         "ec": 6.095213324891969e-17,
-        "name": "Romanshorn Süd (Abzw)",
+        "name": "Romanshorn SÃ¼d (Abzw)",
         "id": "RHS"
       }
     },
@@ -6702,7 +6702,7 @@
       },
       "properties": {
         "ec": 6.023942824090351e-18,
-        "name": "Altstätten SG",
+        "name": "AltstÃ¤tten SG",
         "id": "ALT"
       }
     },
@@ -6837,7 +6837,7 @@
       },
       "properties": {
         "ec": 5.685780507426713e-16,
-        "name": "Wil Süd",
+        "name": "Wil SÃ¼d",
         "id": "WISD"
       }
     },
@@ -6867,7 +6867,7 @@
       },
       "properties": {
         "ec": 7.972011081865403e-17,
-        "name": "Münsterlingen-Scherzingen",
+        "name": "MÃ¼nsterlingen-Scherzingen",
         "id": "MSCH"
       }
     },
@@ -7047,7 +7047,7 @@
       },
       "properties": {
         "ec": 1.687779823561589e-19,
-        "name": "Ambrì-Piotta",
+        "name": "AmbrÃ¬-Piotta",
         "id": "AP"
       }
     },
@@ -7572,7 +7572,7 @@
       },
       "properties": {
         "ec": 1.0298765236030827e-14,
-        "name": "Küssnacht am Rigi",
+        "name": "KÃ¼ssnacht am Rigi",
         "id": "KUE"
       }
     },
@@ -7647,7 +7647,7 @@
       },
       "properties": {
         "ec": 8.708629867241229e-13,
-        "name": "Goldau Mühlefluh (Verzw)",
+        "name": "Goldau MÃ¼hlefluh (Verzw)",
         "id": "GDMF"
       }
     },
@@ -7857,7 +7857,7 @@
       },
       "properties": {
         "ec": 2.512119061854176e-11,
-        "name": "Hünenberg Zythus",
+        "name": "HÃ¼nenberg Zythus",
         "id": "HUZY"
       }
     },
@@ -7887,7 +7887,7 @@
       },
       "properties": {
         "ec": 1.2064374045720806e-09,
-        "name": "Kollermühle (Abzw)",
+        "name": "KollermÃ¼hle (Abzw)",
         "id": "KOLM"
       }
     },
@@ -7902,7 +7902,7 @@
       },
       "properties": {
         "ec": 2.1746613471792645e-09,
-        "name": "Zug Chollermüli",
+        "name": "Zug ChollermÃ¼li",
         "id": "KMUE"
       }
     },
@@ -7932,7 +7932,7 @@
       },
       "properties": {
         "ec": 0.0008361691817497611,
-        "name": "Rüschlikon",
+        "name": "RÃ¼schlikon",
         "id": "RUES"
       }
     },
@@ -7962,7 +7962,7 @@
       },
       "properties": {
         "ec": 0.029228376435783486,
-        "name": "Zürich Wiedikon",
+        "name": "ZÃ¼rich Wiedikon",
         "id": "ZWIE"
       }
     },
@@ -7977,7 +7977,7 @@
       },
       "properties": {
         "ec": 0.008053616652094146,
-        "name": "Zürich Enge",
+        "name": "ZÃ¼rich Enge",
         "id": "ZEN"
       }
     },
@@ -7992,7 +7992,7 @@
       },
       "properties": {
         "ec": 8.791338756606017e-08,
-        "name": "Bäch",
+        "name": "BÃ¤ch",
         "id": "BAE"
       }
     },
@@ -8142,7 +8142,7 @@
       },
       "properties": {
         "ec": 4.915903338903967e-16,
-        "name": "Mitlödi",
+        "name": "MitlÃ¶di",
         "id": "MIT"
       }
     },
@@ -8187,7 +8187,7 @@
       },
       "properties": {
         "ec": 1.5288942747610007e-08,
-        "name": "Jestetten Süd",
+        "name": "Jestetten SÃ¼d",
         "id": "JES"
       }
     },
@@ -8202,7 +8202,7 @@
       },
       "properties": {
         "ec": 2.7723808936268403e-05,
-        "name": "Buchs-Dällikon Industrie",
+        "name": "Buchs-DÃ¤llikon Industrie",
         "id": "BUDI"
       }
     },
@@ -8217,7 +8217,7 @@
       },
       "properties": {
         "ec": 9.933008563066075e-05,
-        "name": "Buchs-Dällikon",
+        "name": "Buchs-DÃ¤llikon",
         "id": "BUD"
       }
     },
@@ -8292,7 +8292,7 @@
       },
       "properties": {
         "ec": 2.250044031012983e-06,
-        "name": "Schöfflisdorf-Oberweningen",
+        "name": "SchÃ¶fflisdorf-Oberweningen",
         "id": "SCHO"
       }
     },
@@ -8352,7 +8352,7 @@
       },
       "properties": {
         "ec": 1.4329898870140506e-08,
-        "name": "Döttingen",
+        "name": "DÃ¶ttingen",
         "id": "DOE"
       }
     },
@@ -8412,7 +8412,7 @@
       },
       "properties": {
         "ec": 1.5289064898376242e-08,
-        "name": "Rümikon AG",
+        "name": "RÃ¼mikon AG",
         "id": "RUEN"
       }
     },
@@ -8442,7 +8442,7 @@
       },
       "properties": {
         "ec": 1.7046569802603273e-05,
-        "name": "Bonstetten Süd (B)",
+        "name": "Bonstetten SÃ¼d (B)",
         "id": "BONS"
       }
     },
@@ -8472,7 +8472,7 @@
       },
       "properties": {
         "ec": 0.0004057071043677582,
-        "name": "Hürlistein (Abzw)",
+        "name": "HÃ¼rlistein (Abzw)",
         "id": "HUER"
       }
     },
@@ -8517,7 +8517,7 @@
       },
       "properties": {
         "ec": 0.0017645155829635424,
-        "name": "Zürich Flughafen",
+        "name": "ZÃ¼rich Flughafen",
         "id": "ZFH"
       }
     },
@@ -8532,7 +8532,7 @@
       },
       "properties": {
         "ec": 1.8622142950525383e-07,
-        "name": "Rüti ZH",
+        "name": "RÃ¼ti ZH",
         "id": "RUE"
       }
     },
@@ -8592,7 +8592,7 @@
       },
       "properties": {
         "ec": 2.34815063446308e-17,
-        "name": "Châteauneuf-Conthey",
+        "name": "ChÃ¢teauneuf-Conthey",
         "id": "CHF"
       }
     },
@@ -8682,7 +8682,7 @@
       },
       "properties": {
         "ec": 3.76234170130955e-06,
-        "name": "Schönenwerd SO Ost (Spw)",
+        "name": "SchÃ¶nenwerd SO Ost (Spw)",
         "id": "SCOO"
       }
     },
@@ -8697,7 +8697,7 @@
       },
       "properties": {
         "ec": 1.1204321983230361e-06,
-        "name": "Wöschnau DfA + SYFA",
+        "name": "WÃ¶schnau DfA + SYFA",
         "id": "WOES"
       }
     },
@@ -8757,7 +8757,7 @@
       },
       "properties": {
         "ec": 0.00045137481508014513,
-        "name": "Aarburg-Oftringen Süd (Abzw)",
+        "name": "Aarburg-Oftringen SÃ¼d (Abzw)",
         "id": "ABOS"
       }
     },
@@ -8772,7 +8772,7 @@
       },
       "properties": {
         "ec": 2.2947552812005934e-14,
-        "name": "Gütsch (Abzw)",
+        "name": "GÃ¼tsch (Abzw)",
         "id": "GTS"
       }
     },
@@ -8862,7 +8862,7 @@
       },
       "properties": {
         "ec": 4.391586058169811e-05,
-        "name": "Küngoldingen",
+        "name": "KÃ¼ngoldingen",
         "id": "KGD"
       }
     },
@@ -8877,7 +8877,7 @@
       },
       "properties": {
         "ec": 1.1595131371308018e-06,
-        "name": "Kölliken Sondermülldeponie",
+        "name": "KÃ¶lliken SondermÃ¼lldeponie",
         "id": "KSMD"
       }
     },
@@ -8907,7 +8907,7 @@
       },
       "properties": {
         "ec": 5.836936990875359e-14,
-        "name": "Brüglen (Spw)",
+        "name": "BrÃ¼glen (Spw)",
         "id": "BRGL"
       }
     },
@@ -8982,7 +8982,7 @@
       },
       "properties": {
         "ec": 1.8884822469347751e-13,
-        "name": "Rotkreuz Südwest",
+        "name": "Rotkreuz SÃ¼dwest",
         "id": "RKSW"
       }
     },
@@ -9252,7 +9252,7 @@
       },
       "properties": {
         "ec": 6.9224545698778776e-12,
-        "name": "Hünenberg Chämleten",
+        "name": "HÃ¼nenberg ChÃ¤mleten",
         "id": "HUCH"
       }
     },
@@ -9267,7 +9267,7 @@
       },
       "properties": {
         "ec": 0.002262338901423291,
-        "name": "Zürich Wollishofen",
+        "name": "ZÃ¼rich Wollishofen",
         "id": "ZWOL"
       }
     },
@@ -9282,7 +9282,7 @@
       },
       "properties": {
         "ec": 3.195680919806406e-07,
-        "name": "Hafen Bäch (Spw)",
+        "name": "Hafen BÃ¤ch (Spw)",
         "id": "HAF"
       }
     },
@@ -9327,7 +9327,7 @@
       },
       "properties": {
         "ec": 3.811397614159487e-11,
-        "name": "Schübelbach-Buttikon",
+        "name": "SchÃ¼belbach-Buttikon",
         "id": "SCBU"
       }
     },
@@ -9462,7 +9462,7 @@
       },
       "properties": {
         "ec": 7.976792456018462e-15,
-        "name": "Trübbach",
+        "name": "TrÃ¼bbach",
         "id": "TRUE"
       }
     },
@@ -9582,7 +9582,7 @@
       },
       "properties": {
         "ec": 1.1577629681985424e-09,
-        "name": "Fischerhölzli",
+        "name": "FischerhÃ¶lzli",
         "id": "FISH"
       }
     },
@@ -9627,7 +9627,7 @@
       },
       "properties": {
         "ec": 0.02116447034929556,
-        "name": "Opfikon Süd",
+        "name": "Opfikon SÃ¼d",
         "id": "OPS"
       }
     },
@@ -9807,7 +9807,7 @@
       },
       "properties": {
         "ec": 1.351410807114961e-05,
-        "name": "Löchligut Süd (Abzw)",
+        "name": "LÃ¶chligut SÃ¼d (Abzw)",
         "id": "LGUS"
       }
     },
@@ -9942,7 +9942,7 @@
       },
       "properties": {
         "ec": 1.903927445866597e-13,
-        "name": "Rotkreuz Südost",
+        "name": "Rotkreuz SÃ¼dost",
         "id": "RKSO"
       }
     },
@@ -10047,7 +10047,7 @@
       },
       "properties": {
         "ec": 0.5196411342529571,
-        "name": "Zürich Altstetten",
+        "name": "ZÃ¼rich Altstetten",
         "id": "ZAS"
       }
     },
@@ -10062,7 +10062,7 @@
       },
       "properties": {
         "ec": 0.041800906334933524,
-        "name": "Zürich Oerlikon",
+        "name": "ZÃ¼rich Oerlikon",
         "id": "ZOER"
       }
     },
@@ -10077,7 +10077,7 @@
       },
       "properties": {
         "ec": 0.23168684607281373,
-        "name": "Zürich Vorbahnhof West",
+        "name": "ZÃ¼rich Vorbahnhof West",
         "id": "ZVBW"
       }
     },
@@ -10092,7 +10092,7 @@
       },
       "properties": {
         "ec": 0.3862853215493542,
-        "name": "Zürich Vorbahnhof",
+        "name": "ZÃ¼rich Vorbahnhof",
         "id": "ZVB"
       }
     },
@@ -10107,7 +10107,7 @@
       },
       "properties": {
         "ec": 0.15785653964720173,
-        "name": "Zürich Vorbahnhof Ost",
+        "name": "ZÃ¼rich Vorbahnhof Ost",
         "id": "ZVBO"
       }
     },
@@ -10122,7 +10122,7 @@
       },
       "properties": {
         "ec": 0.043673591289859134,
-        "name": "Zürich Wehntalerstrasse (Spw)",
+        "name": "ZÃ¼rich Wehntalerstrasse (Spw)",
         "id": "ZWEH"
       }
     },
@@ -10152,7 +10152,7 @@
       },
       "properties": {
         "ec": 2.488254809872668e-19,
-        "name": "Brig-Lötschberg (Abzw)",
+        "name": "Brig-LÃ¶tschberg (Abzw)",
         "id": "BRLO"
       }
     },
@@ -10317,7 +10317,7 @@
       },
       "properties": {
         "ec": 7.360994817350205e-16,
-        "name": "Märwil",
+        "name": "MÃ¤rwil",
         "id": "MAE"
       }
     },
@@ -10362,7 +10362,7 @@
       },
       "properties": {
         "ec": 5.714622764292465e-16,
-        "name": "Givisiez, dépôt",
+        "name": "Givisiez, dÃ©pÃ´t",
         "id": "GIVD"
       }
     },
@@ -10452,7 +10452,7 @@
       },
       "properties": {
         "ec": 1.1425056425367381e-11,
-        "name": "Walchwil Hörndli",
+        "name": "Walchwil HÃ¶rndli",
         "id": "WCHO"
       }
     },
@@ -10767,7 +10767,7 @@
       },
       "properties": {
         "ec": 4.222602058565096e-06,
-        "name": "Wädenswil",
+        "name": "WÃ¤denswil",
         "id": "WAE"
       }
     },
@@ -10782,7 +10782,7 @@
       },
       "properties": {
         "ec": 3.886513564985908e-15,
-        "name": "Neugrüt (Verzw)",
+        "name": "NeugrÃ¼t (Verzw)",
         "id": "NGR"
       }
     },
@@ -10797,7 +10797,7 @@
       },
       "properties": {
         "ec": 4.495890378075392e-16,
-        "name": "Räfis-Burgerau",
+        "name": "RÃ¤fis-Burgerau",
         "id": "RAEF"
       }
     },
@@ -10857,7 +10857,7 @@
       },
       "properties": {
         "ec": 8.56095926619527e-14,
-        "name": "Näfels-Mollis",
+        "name": "NÃ¤fels-Mollis",
         "id": "NAEF"
       }
     },
@@ -10947,7 +10947,7 @@
       },
       "properties": {
         "ec": 0.0002713913379103198,
-        "name": "Würenlos",
+        "name": "WÃ¼renlos",
         "id": "WUER"
       }
     },
@@ -11007,7 +11007,7 @@
       },
       "properties": {
         "ec": 6.80996303549374e-07,
-        "name": "Siggenthal-Würenlingen",
+        "name": "Siggenthal-WÃ¼renlingen",
         "id": "SIG"
       }
     },
@@ -11022,7 +11022,7 @@
       },
       "properties": {
         "ec": 1.8788367226219658e-07,
-        "name": "Würenlingen Zwischenlager(Agl)",
+        "name": "WÃ¼renlingen Zwischenlager(Agl)",
         "id": "WUZW"
       }
     },
@@ -11172,7 +11172,7 @@
       },
       "properties": {
         "ec": 0.14295363752248444,
-        "name": "Zürich Altstetten Farbhof",
+        "name": "ZÃ¼rich Altstetten Farbhof",
         "id": "ZAFH"
       }
     },
@@ -11187,7 +11187,7 @@
       },
       "properties": {
         "ec": 3.9687042837895255e-06,
-        "name": "Winterthur Försterhaus",
+        "name": "Winterthur FÃ¶rsterhaus",
         "id": "WFOE"
       }
     },
@@ -11202,7 +11202,7 @@
       },
       "properties": {
         "ec": 0.017321823512454985,
-        "name": "Zürich Seebach",
+        "name": "ZÃ¼rich Seebach",
         "id": "ZSEB"
       }
     },
@@ -11217,7 +11217,7 @@
       },
       "properties": {
         "ec": 5.314688566261301e-12,
-        "name": "Pont-Céard",
+        "name": "Pont-CÃ©ard",
         "id": "PTC"
       }
     },
@@ -11292,7 +11292,7 @@
       },
       "properties": {
         "ec": 1.3317056183391463e-15,
-        "name": "Neuchâtel-Serrières",
+        "name": "NeuchÃ¢tel-SerriÃ¨res",
         "id": "NESE"
       }
     },
@@ -11337,7 +11337,7 @@
       },
       "properties": {
         "ec": 4.651780232237691e-15,
-        "name": "Neuchâtel",
+        "name": "NeuchÃ¢tel",
         "id": "NE"
       }
     },
@@ -11352,7 +11352,7 @@
       },
       "properties": {
         "ec": 4.015344439007301e-15,
-        "name": "Neuchâtel Cargo",
+        "name": "NeuchÃ¢tel Cargo",
         "id": "NEFD"
       }
     },
@@ -11367,7 +11367,7 @@
       },
       "properties": {
         "ec": 7.259884250482735e-15,
-        "name": "Neuchâtel Est (bif)",
+        "name": "NeuchÃ¢tel Est (bif)",
         "id": "NEMA"
       }
     },
@@ -11487,7 +11487,7 @@
       },
       "properties": {
         "ec": 2.1351048674263028e-16,
-        "name": "Bôle",
+        "name": "BÃ´le",
         "id": "BOLE"
       }
     },
@@ -11562,7 +11562,7 @@
       },
       "properties": {
         "ec": 5.585643164591053e-19,
-        "name": "Le Locle-Frontière",
+        "name": "Le Locle-FrontiÃ¨re",
         "id": "LOCF"
       }
     },
@@ -11592,7 +11592,7 @@
       },
       "properties": {
         "ec": 1.118372354260876e-11,
-        "name": "Reuchenette-Péry",
+        "name": "Reuchenette-PÃ©ry",
         "id": "REU"
       }
     },
@@ -11652,7 +11652,7 @@
       },
       "properties": {
         "ec": 1.263339352556879e-10,
-        "name": "Münchenstein",
+        "name": "MÃ¼nchenstein",
         "id": "MST"
       }
     },
@@ -11682,7 +11682,7 @@
       },
       "properties": {
         "ec": 3.3872646344489658e-15,
-        "name": "Courtételle",
+        "name": "CourtÃ©telle",
         "id": "CTT"
       }
     },
@@ -11727,7 +11727,7 @@
       },
       "properties": {
         "ec": 5.934203880925796e-14,
-        "name": "Sévaz (embr)",
+        "name": "SÃ©vaz (embr)",
         "id": "SEVA"
       }
     },
@@ -11937,7 +11937,7 @@
       },
       "properties": {
         "ec": 6.397201796032564e-14,
-        "name": "Düdingen",
+        "name": "DÃ¼dingen",
         "id": "DUED"
       }
     },
@@ -12072,7 +12072,7 @@
       },
       "properties": {
         "ec": 2.4421346191466786e-15,
-        "name": "Neuchâtel-Vauseyon (bif)",
+        "name": "NeuchÃ¢tel-Vauseyon (bif)",
         "id": "NEBI"
       }
     },
@@ -12252,7 +12252,7 @@
       },
       "properties": {
         "ec": 5.649485108240656e-17,
-        "name": "Léchelles",
+        "name": "LÃ©chelles",
         "id": "LECH"
       }
     },
@@ -12267,7 +12267,7 @@
       },
       "properties": {
         "ec": 6.941849113515121e-17,
-        "name": "Léchelles Tanklager (embr)",
+        "name": "LÃ©chelles Tanklager (embr)",
         "id": "TKLL"
       }
     },
@@ -12357,7 +12357,7 @@
       },
       "properties": {
         "ec": 1.7000451539275177e-09,
-        "name": "Büren an der Aare",
+        "name": "BÃ¼ren an der Aare",
         "id": "BUER"
       }
     },
@@ -12402,7 +12402,7 @@
       },
       "properties": {
         "ec": 1.5070021805260974e-10,
-        "name": "Fräschels",
+        "name": "FrÃ¤schels",
         "id": "FRAE"
       }
     },
@@ -12432,7 +12432,7 @@
       },
       "properties": {
         "ec": 3.528606182048405e-13,
-        "name": "Muntelier-Löwenberg",
+        "name": "Muntelier-LÃ¶wenberg",
         "id": "LOEW"
       }
     },
@@ -12477,7 +12477,7 @@
       },
       "properties": {
         "ec": 2.17811453844846e-06,
-        "name": "Münchenbuchsee",
+        "name": "MÃ¼nchenbuchsee",
         "id": "MUEB"
       }
     },
@@ -12627,7 +12627,7 @@
       },
       "properties": {
         "ec": 8.773488603969516e-08,
-        "name": "Männedorf",
+        "name": "MÃ¤nnedorf",
         "id": "MAEN"
       }
     },
@@ -12642,7 +12642,7 @@
       },
       "properties": {
         "ec": 2.4142084652050462e-08,
-        "name": "Stäfa",
+        "name": "StÃ¤fa",
         "id": "STAE"
       }
     },
@@ -12687,7 +12687,7 @@
       },
       "properties": {
         "ec": 0.00047216805844446386,
-        "name": "Küsnacht Goldbach",
+        "name": "KÃ¼snacht Goldbach",
         "id": "KGO"
       }
     },
@@ -12762,7 +12762,7 @@
       },
       "properties": {
         "ec": 3.1124006738753257e-18,
-        "name": "Rynächt Nord",
+        "name": "RynÃ¤cht Nord",
         "id": "RYN"
       }
     },
@@ -12777,7 +12777,7 @@
       },
       "properties": {
         "ec": 3.363221621596612e-18,
-        "name": "Flüelen",
+        "name": "FlÃ¼elen",
         "id": "FL"
       }
     },
@@ -12882,7 +12882,7 @@
       },
       "properties": {
         "ec": 0.02924340630109042,
-        "name": "Zürich Kollerwiese (Spw)",
+        "name": "ZÃ¼rich Kollerwiese (Spw)",
         "id": "ZKOL"
       }
     },
@@ -12897,7 +12897,7 @@
       },
       "properties": {
         "ec": 6.65331624571968e-09,
-        "name": "Pfäffikon SZ",
+        "name": "PfÃ¤ffikon SZ",
         "id": "PF"
       }
     },
@@ -12927,7 +12927,7 @@
       },
       "properties": {
         "ec": 8.563804834862438e-14,
-        "name": "Mühlehorn",
+        "name": "MÃ¼hlehorn",
         "id": "MH"
       }
     },
@@ -12972,7 +12972,7 @@
       },
       "properties": {
         "ec": 2.92679653058494e-18,
-        "name": "Luchsingen-Hätzingen",
+        "name": "Luchsingen-HÃ¤tzingen",
         "id": "LU"
       }
     },
@@ -13002,7 +13002,7 @@
       },
       "properties": {
         "ec": 2.4831476171299115e-19,
-        "name": "Rüti GL",
+        "name": "RÃ¼ti GL",
         "id": "RUET"
       }
     },
@@ -13062,7 +13062,7 @@
       },
       "properties": {
         "ec": 7.34335622155139e-07,
-        "name": "Hüntwangen-Wil",
+        "name": "HÃ¼ntwangen-Wil",
         "id": "HUEW"
       }
     },
@@ -13077,7 +13077,7 @@
       },
       "properties": {
         "ec": 0.004767683551049932,
-        "name": "Tankanlage Rümlang",
+        "name": "Tankanlage RÃ¼mlang",
         "id": "TALR"
       }
     },
@@ -13092,7 +13092,7 @@
       },
       "properties": {
         "ec": 9.070700376352e-06,
-        "name": "Buchs-Dällikon Hofwisen(Verzw)",
+        "name": "Buchs-DÃ¤llikon Hofwisen(Verzw)",
         "id": "BUHW"
       }
     },
@@ -13227,7 +13227,7 @@
       },
       "properties": {
         "ec": 1.8968376899535921e-07,
-        "name": "Lonay-Préverenges",
+        "name": "Lonay-PrÃ©verenges",
         "id": "LON"
       }
     },
@@ -13422,7 +13422,7 @@
       },
       "properties": {
         "ec": 3.719322910860646e-11,
-        "name": "Vallorbe-Frontière",
+        "name": "Vallorbe-FrontiÃ¨re",
         "id": "VALF"
       }
     },
@@ -13692,7 +13692,7 @@
       },
       "properties": {
         "ec": 0.00010278082980070813,
-        "name": "Däniken West (Abzw)",
+        "name": "DÃ¤niken West (Abzw)",
         "id": "DKW"
       }
     },
@@ -13827,7 +13827,7 @@
       },
       "properties": {
         "ec": 3.794699145838787e-05,
-        "name": "Löchligut (Abzw)",
+        "name": "LÃ¶chligut (Abzw)",
         "id": "LGUT"
       }
     },
@@ -13992,7 +13992,7 @@
       },
       "properties": {
         "ec": 0.001211175105174553,
-        "name": "Hürlistein West",
+        "name": "HÃ¼rlistein West",
         "id": "HURW"
       }
     },
@@ -14022,7 +14022,7 @@
       },
       "properties": {
         "ec": 0.0011897179456538483,
-        "name": "Dübendorf",
+        "name": "DÃ¼bendorf",
         "id": "DUE"
       }
     },
@@ -14067,7 +14067,7 @@
       },
       "properties": {
         "ec": 0.0001299017508800657,
-        "name": "Küsnacht ZH",
+        "name": "KÃ¼snacht ZH",
         "id": "KUES"
       }
     },
@@ -14082,7 +14082,7 @@
       },
       "properties": {
         "ec": 9.944607850155042e-06,
-        "name": "Winkel am Zürichsee",
+        "name": "Winkel am ZÃ¼richsee",
         "id": "WIN"
       }
     },
@@ -14097,7 +14097,7 @@
       },
       "properties": {
         "ec": 0.006238943674089319,
-        "name": "Zürich Tiefenbrunnen",
+        "name": "ZÃ¼rich Tiefenbrunnen",
         "id": "ZTB"
       }
     },
@@ -14127,7 +14127,7 @@
       },
       "properties": {
         "ec": 4.3497184272081887e-08,
-        "name": "Bäretswil Tobel (Agl)",
+        "name": "BÃ¤retswil Tobel (Agl)",
         "id": "BAET"
       }
     },
@@ -14172,7 +14172,7 @@
       },
       "properties": {
         "ec": 5.194063914610226e-10,
-        "name": "Genève-Aéroport",
+        "name": "GenÃ¨ve-AÃ©roport",
         "id": "GEAP"
       }
     },
@@ -14262,7 +14262,7 @@
       },
       "properties": {
         "ec": 6.109136273257948e-10,
-        "name": "Grenchen Süd",
+        "name": "Grenchen SÃ¼d",
         "id": "GS"
       }
     },
@@ -14352,7 +14352,7 @@
       },
       "properties": {
         "ec": 1.0265106749411199e-15,
-        "name": "Neuchâtel-Vauseyon",
+        "name": "NeuchÃ¢tel-Vauseyon",
         "id": "NEVS"
       }
     },
@@ -14367,7 +14367,7 @@
       },
       "properties": {
         "ec": 1.271602996072726e-13,
-        "name": "Cortébert",
+        "name": "CortÃ©bert",
         "id": "CO"
       }
     },
@@ -14382,7 +14382,7 @@
       },
       "properties": {
         "ec": 3.898656198118628e-13,
-        "name": "Corgémont",
+        "name": "CorgÃ©mont",
         "id": "COG"
       }
     },
@@ -14397,7 +14397,7 @@
       },
       "properties": {
         "ec": 2.919753090241902e-19,
-        "name": "Les Verrières-Frontière",
+        "name": "Les VerriÃ¨res-FrontiÃ¨re",
         "id": "VERF"
       }
     },
@@ -14457,7 +14457,7 @@
       },
       "properties": {
         "ec": 3.172478596177687e-20,
-        "name": "Delle-Frontière",
+        "name": "Delle-FrontiÃ¨re",
         "id": "DLF"
       }
     },
@@ -14547,7 +14547,7 @@
       },
       "properties": {
         "ec": 6.491318043748963e-07,
-        "name": "Schüpfen",
+        "name": "SchÃ¼pfen",
         "id": "SCUE"
       }
     },
@@ -14562,7 +14562,7 @@
       },
       "properties": {
         "ec": 9.333331953416804e-10,
-        "name": "Bern Bümpliz Süd",
+        "name": "Bern BÃ¼mpliz SÃ¼d",
         "id": "BNBS"
       }
     },
@@ -14637,7 +14637,7 @@
       },
       "properties": {
         "ec": 9.336954900169243e-09,
-        "name": "Winterthur Wallrüti",
+        "name": "Winterthur WallrÃ¼ti",
         "id": "WWAL"
       }
     },
@@ -14832,7 +14832,7 @@
       },
       "properties": {
         "ec": 2.5345575571632167e-17,
-        "name": "Rüthi SG",
+        "name": "RÃ¼thi SG",
         "id": "RTH"
       }
     },
@@ -14877,7 +14877,7 @@
       },
       "properties": {
         "ec": 0.15785653964720173,
-        "name": "Zürich Vorbahnhof Feld M",
+        "name": "ZÃ¼rich Vorbahnhof Feld M",
         "id": "ZVBM"
       }
     },
@@ -14952,7 +14952,7 @@
       },
       "properties": {
         "ec": 4.233799355487754e-14,
-        "name": "Chénens",
+        "name": "ChÃ©nens",
         "id": "CHE"
       }
     },
@@ -15027,7 +15027,7 @@
       },
       "properties": {
         "ec": 4.2847420805062695e-17,
-        "name": "Münsterlingen Spital",
+        "name": "MÃ¼nsterlingen Spital",
         "id": "MSPI"
       }
     },
@@ -15327,7 +15327,7 @@
       },
       "properties": {
         "ec": 0.0013198275070589024,
-        "name": "Rümlang",
+        "name": "RÃ¼mlang",
         "id": "RUEM"
       }
     },
@@ -15342,7 +15342,7 @@
       },
       "properties": {
         "ec": 0.004765249446041761,
-        "name": "Zürich Affoltern",
+        "name": "ZÃ¼rich Affoltern",
         "id": "ZAF"
       }
     },
@@ -15357,7 +15357,7 @@
       },
       "properties": {
         "ec": 1.114984311599345e-09,
-        "name": "Koblenz Süd",
+        "name": "Koblenz SÃ¼d",
         "id": "KBS"
       }
     },
@@ -15447,7 +15447,7 @@
       },
       "properties": {
         "ec": 0.0064030032952333785,
-        "name": "Zürich Hottingen (Spw)",
+        "name": "ZÃ¼rich Hottingen (Spw)",
         "id": "ZHOT"
       }
     },
@@ -15477,7 +15477,7 @@
       },
       "properties": {
         "ec": 2.6696868642530713e-11,
-        "name": "Schaffhausen Süd",
+        "name": "Schaffhausen SÃ¼d",
         "id": "SHSU"
       }
     },
@@ -15492,7 +15492,7 @@
       },
       "properties": {
         "ec": 0.0013109323222715806,
-        "name": "Zürich Gubrist",
+        "name": "ZÃ¼rich Gubrist",
         "id": "ZGUB"
       }
     },
@@ -15522,7 +15522,7 @@
       },
       "properties": {
         "ec": 9.004641837125959e-05,
-        "name": "Nänikon-Greifensee",
+        "name": "NÃ¤nikon-Greifensee",
         "id": "NAEN"
       }
     },
@@ -15567,7 +15567,7 @@
       },
       "properties": {
         "ec": 7.407791143677907e-12,
-        "name": "Thörishaus Dorf",
+        "name": "ThÃ¶rishaus Dorf",
         "id": "THOD"
       }
     },
@@ -15597,7 +15597,7 @@
       },
       "properties": {
         "ec": 7.207002384313812e-13,
-        "name": "Wünnewil",
+        "name": "WÃ¼nnewil",
         "id": "WUE"
       }
     },
@@ -15672,7 +15672,7 @@
       },
       "properties": {
         "ec": 1.2183379593996056e-05,
-        "name": "Schönbühl SBB",
+        "name": "SchÃ¶nbÃ¼hl SBB",
         "id": "SCHB"
       }
     },
@@ -15687,7 +15687,7 @@
       },
       "properties": {
         "ec": 5.129576731520818e-07,
-        "name": "Gümligen",
+        "name": "GÃ¼mligen",
         "id": "GUE"
       }
     },
@@ -15792,7 +15792,7 @@
       },
       "properties": {
         "ec": 0.00023156609493782502,
-        "name": "Läufelfingen",
+        "name": "LÃ¤ufelfingen",
         "id": "LF"
       }
     },
@@ -15927,7 +15927,7 @@
       },
       "properties": {
         "ec": 5.816982275932249e-06,
-        "name": "Mägenwil",
+        "name": "MÃ¤genwil",
         "id": "MAEG"
       }
     },
@@ -15957,7 +15957,7 @@
       },
       "properties": {
         "ec": 2.4663059772394528e-11,
-        "name": "Thörishaus Station",
+        "name": "ThÃ¶rishaus Station",
         "id": "THO"
       }
     },
@@ -16092,7 +16092,7 @@
       },
       "properties": {
         "ec": 4.425139217804458e-09,
-        "name": "Tägertschi",
+        "name": "TÃ¤gertschi",
         "id": "TI"
       }
     },
@@ -16152,7 +16152,7 @@
       },
       "properties": {
         "ec": 7.259820035817649e-09,
-        "name": "Frenkendorf-Füllinsdorf",
+        "name": "Frenkendorf-FÃ¼llinsdorf",
         "id": "FRE"
       }
     },
@@ -16242,7 +16242,7 @@
       },
       "properties": {
         "ec": 1.2634955961387654e-05,
-        "name": "Schönenwerd SO",
+        "name": "SchÃ¶nenwerd SO",
         "id": "SCOE"
       }
     },
@@ -16362,7 +16362,7 @@
       },
       "properties": {
         "ec": 1.0323440575070938e-07,
-        "name": "Kölliken",
+        "name": "KÃ¶lliken",
         "id": "KK"
       }
     },
@@ -16407,7 +16407,7 @@
       },
       "properties": {
         "ec": 6.446923654571383e-13,
-        "name": "Oberrüti",
+        "name": "OberrÃ¼ti",
         "id": "OI"
       }
     },
@@ -16482,7 +16482,7 @@
       },
       "properties": {
         "ec": 9.063606132558423e-18,
-        "name": "Rynächt (Abzw)",
+        "name": "RynÃ¤cht (Abzw)",
         "id": "RYAB"
       }
     },
@@ -16497,7 +16497,7 @@
       },
       "properties": {
         "ec": 5.192599509241585e-18,
-        "name": "Rynächt Ueberholgleisanlage",
+        "name": "RynÃ¤cht Ueberholgleisanlage",
         "id": "RYUE"
       }
     },
@@ -16527,7 +16527,7 @@
       },
       "properties": {
         "ec": 3.453769702150805e-07,
-        "name": "Kölliken Oberdorf",
+        "name": "KÃ¶lliken Oberdorf",
         "id": "KKO"
       }
     },
@@ -16602,7 +16602,7 @@
       },
       "properties": {
         "ec": 6.617670878353994e-07,
-        "name": "Lécheires (bif)",
+        "name": "LÃ©cheires (bif)",
         "id": "LECR"
       }
     },
@@ -16752,7 +16752,7 @@
       },
       "properties": {
         "ec": 3.500847107503623e-14,
-        "name": "Weinfelden Süd",
+        "name": "Weinfelden SÃ¼d",
         "id": "WFS"
       }
     },
@@ -16782,7 +16782,7 @@
       },
       "properties": {
         "ec": 3.338090407567055e-10,
-        "name": "Genève-Stade",
+        "name": "GenÃ¨ve-Stade",
         "id": "GEST"
       }
     },
@@ -16797,7 +16797,7 @@
       },
       "properties": {
         "ec": 1.034024107182577e-09,
-        "name": "Genève-La-Praille",
+        "name": "GenÃ¨ve-La-Praille",
         "id": "GEPR"
       }
     },
@@ -16977,7 +16977,7 @@
       },
       "properties": {
         "ec": 5.1229908877868335e-08,
-        "name": "Tann-Dürnten",
+        "name": "Tann-DÃ¼rnten",
         "id": "TD"
       }
     },
@@ -17037,7 +17037,7 @@
       },
       "properties": {
         "ec": 5.100480411132435e-12,
-        "name": "Hüttlingen-Mettendorf",
+        "name": "HÃ¼ttlingen-Mettendorf",
         "id": "HM"
       }
     },
@@ -17052,7 +17052,7 @@
       },
       "properties": {
         "ec": 1.4048392986126338e-12,
-        "name": "Müllheim-Wigoltingen",
+        "name": "MÃ¼llheim-Wigoltingen",
         "id": "MUEL"
       }
     },
@@ -17067,7 +17067,7 @@
       },
       "properties": {
         "ec": 3.9188174536123377e-13,
-        "name": "Märstetten",
+        "name": "MÃ¤rstetten",
         "id": "MAER"
       }
     },
@@ -17112,7 +17112,7 @@
       },
       "properties": {
         "ec": 1.2194090477679527e-17,
-        "name": "Lütisburg",
+        "name": "LÃ¼tisburg",
         "id": "LUET"
       }
     },
@@ -17127,7 +17127,7 @@
       },
       "properties": {
         "ec": 3.465630725020817e-18,
-        "name": "Bütschwil",
+        "name": "BÃ¼tschwil",
         "id": "BUET"
       }
     },
@@ -17217,7 +17217,7 @@
       },
       "properties": {
         "ec": 1.704796323617428e-17,
-        "name": "Güttingen",
+        "name": "GÃ¼ttingen",
         "id": "GUET"
       }
     },
@@ -17322,7 +17322,7 @@
       },
       "properties": {
         "ec": 6.576106948960965e-20,
-        "name": "Göschenen",
+        "name": "GÃ¶schenen",
         "id": "GOE"
       }
     },
@@ -17382,7 +17382,7 @@
       },
       "properties": {
         "ec": 6.260464154415584e-17,
-        "name": "St-Léonard",
+        "name": "St-LÃ©onard",
         "id": "SL"
       }
     },
@@ -17427,7 +17427,7 @@
       },
       "properties": {
         "ec": 5.323060493776938e-11,
-        "name": "Rämismühle-Zell",
+        "name": "RÃ¤mismÃ¼hle-Zell",
         "id": "RMZ"
       }
     },
@@ -17532,7 +17532,7 @@
       },
       "properties": {
         "ec": 0.18228379359803337,
-        "name": "Zürich Mülligen",
+        "name": "ZÃ¼rich MÃ¼lligen",
         "id": "ZMUE"
       }
     },
