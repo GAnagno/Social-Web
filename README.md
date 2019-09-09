@@ -9,4 +9,5 @@ Some of the code is inpired or adapted from:
 * https://github.com/mdeff/ntds_2018
 * https://github.com/snap-stanford/graphwave
 * https://github.com/eliorc/Medium
+* https://github.com/pascscha/pySBB
 * https://docs.dgl.ai/index.html
