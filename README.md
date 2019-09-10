@@ -1,6 +1,7 @@
 # Social-Web
 Some of the code is inpired or adapted from:
 * https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition
+* https://sevamoo.github.io/Markovian_IO_SI_PLOSONE/
 * https://sevamoo.github.io/urban-modeling-at-scale/
 * https://pragprog.com/book/dzcnapy/complex-network-analysis-in-python
 * https://pygsp.readthedocs.io/en/stable/tutorials/intro.html
