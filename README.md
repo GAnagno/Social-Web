@@ -5,6 +5,7 @@ Some of the code is inpired or adapted from:
 * https://sevamoo.github.io/urban-modeling-at-scale/
 * https://pragprog.com/book/dzcnapy/complex-network-analysis-in-python
 * https://pygsp.readthedocs.io/en/stable/tutorials/intro.html
+* https://github.com/weizhaoalex/EnglishAlphabetMarkovModel
 * https://github.com/christohog/ist-daten-discovery
 * https://github.com/mdeff/pygsp_tutorial_graphsip
 * https://github.com/mdeff/ntds_2018
