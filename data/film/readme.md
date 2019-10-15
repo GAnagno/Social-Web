@@ -1,1 +1,1 @@
-# Stationary distributions September 2019
+# Stationary distributions, September 2019
