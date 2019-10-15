@@ -1,1 +1,1 @@
-# Markovian Modell of swiss railways, September 2019
+# Markovian model of swiss railways, September 2019
