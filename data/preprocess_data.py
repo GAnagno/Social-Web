@@ -31,7 +31,7 @@ project_path = 'C:/Users/GAO/Jupyter/data'
 data_tot = pd.DataFrame()
 
 # Find all zip files and loop over them
-for m in glob.glob(project_path+"/istdaten/September/*.zip"):
+for m in glob.glob(project_path+"/istdaten/Oktober/*.zip"):
     # Get zip file of year m
     with zipfile.ZipFile(m, 'r') as z:
         for file in z.namelist():
@@ -71,12 +71,13 @@ for m in glob.glob(project_path+"/istdaten/September/*.zip"):
                 
                 # Keep only train information
                 data = data_all[data_all['PRODUKT_ID']=='Zug']
-                # Keep only SBB trains
-                # data = data[data['BETREIBER_ABK'].isin(['SBB', 'BLS-bls', 'THURBO', 'RhB', 'AVA-wsb', 'AB-ab', 'SOB-sob', 'AVA-bd', 'ZB', 'RA'])]
-                data = data[data['BETREIBER_ABK'].isin(['SBB', 'BLS-bls', 'THURBO', 'RhB'])]
+                blacklisted = ['AB-ab', 'SZU', 'FB', 'LEB', 'CJ']
+                test = ['AVA-wsb']
+                selection = ['SBB', 'BLS-bls', 'THURBO', 'RBS', 'RhB', 'SOB-sob', 'ZB', 'RA', 'MOB', 'TPF', 'TPC-aomc', 'MGB-fo']
+                data = data[data['BETREIBER_ABK'].isin(selection)]
                 
                 data_tot = data_tot.append(data)
                 
 # Save data in pickle file
-data_tot.to_pickle('data_clean_201909.pkl')
+data_tot.to_pickle('data_clean_201910.pkl')
                 
