@@ -1,4 +1,4 @@
-﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>
+ID	label	x	y	cluster	weight<Links>	weight<Total link strength>
 1	Aadorf	0.8265	-0.0616	1	4	2.5
 2	Aadorf=>Elgg	0.8199	-0.0583	1	2	0.9524
 3	Aadorf=>Guntershausen	0.8322	-0.0652	1	2	1.0476
